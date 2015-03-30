@@ -68,6 +68,11 @@
                 android:action="android.intent.action.SET_KEYGUARD_WALLPAPER" />
         </PreferenceScreen>
 
+        <com.android.settings.cyanogenmod.SystemSettingSwitchPreference
+            android:key="chinese_date_view"
+            android:title="@string/show_chinese_date"
+            android:defaultValue="true" />
+
     </PreferenceCategory>
 
 </PreferenceScreen>
