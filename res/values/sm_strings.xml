@@ -35,4 +35,6 @@
     <string name="captive_portal_server_notset">Not Set Server</string>
     <string name="captive_portal_server_explain">Set captive portal server.You need to reboot your device.</string>
 
+    <!-- Show Chinese Date -->
+    <string name="show_chinese_date">Show Chinese Date</string>
 </resources>
