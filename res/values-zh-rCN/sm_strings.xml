@@ -23,6 +23,12 @@
   <string name="status_bar_network_traffic_style_all">显示上传和下载速度</string>
   <string name="wat">天气时钟</string>
   <string name="wats">天气时钟插件快捷入口</string> 
+  <string name="night_mode">夜间模式</string>
+  <string name="night_mode_summary">安装软件前请关闭夜间模式</string>    
+  <string name="night_mode_color">夜间模式颜色</string>
+  <string name="night_mode_color_black">黑色</string>
+  <string name="night_mode_color_red">红色</string>
+  <string name="night_mode_color_yellow">黄色</string>
   <string name="captive_portal_detection">网络状况检测</string>
   <string name="captive_portal_detection_summary">如果状态栏有感叹号，可关闭网络状况检测</string>
   <string name="captive_portal_server">自定义验证服务器</string>
