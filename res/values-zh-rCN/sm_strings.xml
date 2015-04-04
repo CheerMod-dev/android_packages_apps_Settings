@@ -76,5 +76,7 @@
   <string name="heads_up_time_out_8sec"> 8 秒</string>
   <string name="heads_up_time_out_10sec"> 10 秒</string>
   <string name="heads_up_time_out_never">从不</string>
+  <string name="qs_tile_nightmode">夜间模式</string>
+  <string name="qs_tile_screenshot">屏幕截图</string>
   <string name="show_chinese_date">锁屏显示农历</string>
 </resources>

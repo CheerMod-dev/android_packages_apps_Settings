@@ -98,6 +98,12 @@
     <string name="heads_up_time_out_10sec">10 seconds</string>
     <string name="heads_up_time_out_never">Never</string>
 
+    <!-- NightMode Tile -->
+    <string name="qs_tile_nightmode">NightMode</string>
+
+    <!-- Screenshot Tile -->
+    <string name="qs_tile_screenshot">Screenshot</string>
+
     <!-- Show Chinese Date -->
     <string name="show_chinese_date">Show Chinese Date</string>
 </resources>
