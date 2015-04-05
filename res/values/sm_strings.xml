@@ -43,7 +43,8 @@
     <string name="direct_call_for_dialer_summary">Lift phone to ear after entering number in dialer to call directly</string>
     <string name="direct_call_for_mms_title">Direct Call in Mms</string>
     <string name="direct_call_for_mms_summary">Lift phone to ear will automatically call current contact</string>
-
+    <!-- Disable Camera Shutter Sound -->
+    <string name="camera_sounds_title">Camera shutter sound</string>
     <!-- night mode-->
     <string name="night_mode">Night Mode</string>
     <string name="night_mode_summary">Please turn off \"Night Mode\" when install a new app</string>  

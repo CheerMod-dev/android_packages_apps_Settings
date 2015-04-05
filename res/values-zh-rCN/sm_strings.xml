@@ -79,4 +79,5 @@
   <string name="qs_tile_nightmode">夜间模式</string>
   <string name="qs_tile_screenshot">屏幕截图</string>
   <string name="show_chinese_date">锁屏显示农历</string>
+    <string name="camera_sounds_title">相机声音</string>
 </resources>
