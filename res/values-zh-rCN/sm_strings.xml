@@ -20,35 +20,8 @@
   <string name="status_bar_network_traffic_style_up">显示上传速度</string>
   <string name="status_bar_network_traffic_style_down">显示下载速度</string>
   <string name="status_bar_network_traffic_style_all">显示上传和下载速度</string>
-<<<<<<< HEAD
-=======
-  <string name="suda_version">SudaMod版本</string>
-  <string name="suda_version_default">未知</string>
-  <string name="advanced_device_info_title">高级信息</string>
-  <string name="advanced_device_info_summary">CPU、GPU等</string>
-  <string name="cpu_processor">处理器</string>
-  <string name="cpu_processor_hardware">硬件</string>
-  <string name="cpu_type">处理器类型</string>
-  <string name="cpu_features">处理器特性</string>
-  <string name="gpu_vendor">GPU供应商</string>
-  <string name="gpu_renderer">GPU渲染器</string>
-  <string name="gpu_gl_version">OpenGL版本</string>
-  <string name="gpu_gl_extensions">OpenGL扩展</string>
-  <string name="gpu_shader_version">Shader版本</string>  
   <string name="su_indicator">超级权限图标</string>
   <string name="su_indicator_summary_on">当Root权限激活时状态栏显示图标</string>
   <string name="su_indicator_summary_off">当Root权限激活时状态栏不显示图标</string>
-  <string name="captive_portal_detection">网络状况检测</string>
-  <string name="captive_portal_detection_summary">如果状态栏有感叹号，可关闭网络状况检测</string>
-  <string name="mod_version_type">类型</string>
-  <string name="captive_portal_server">自定义验证服务器</string>
-  <string name="captive_portal_server_notset">未填写验证服务器</string>
-  <string name="captive_portal_server_explain">自定义验证服务器，修改完成需要重启或者关闭打开飞行模式</string>
-  <string name="wat">天气时钟</string>
-  <string name="wats">天气时钟插件快捷入口</string>
-  <string name="double_tap_sleep_anywhere_title">双击睡眠</string>
-  <string name="double_tap_sleep_anywhere_summary">双击锁屏任意处关闭屏幕</string>
   <string name="show_chinese_date">锁屏显示农历</string>
-
->>>>>>> 76f0192... Settings:chinese_date_view(2/2)
 </resources>
