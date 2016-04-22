@@ -48,4 +48,11 @@
     <string name="captive_portal_server">Captive portal Server</string>
     <string name="captive_portal_server_notset">Not Set Server</string>
     <string name="captive_portal_server_explain">Set captive portal server.You need to reboot your device.</string>
+
+    <!-- Show Chinese Date -->
+    <string name="show_chinese_date">Show Chinese Date</string>
+
+     <!-- Lockscreen show Charging Current -->
+    <string name="lock_screen_show_current">Charging Current</string>
+    <string name="lock_screen_show_current_summary">Show Charging Current rate on lock screen</string>
 </resources>
