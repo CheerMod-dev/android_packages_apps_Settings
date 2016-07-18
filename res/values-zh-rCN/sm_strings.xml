@@ -45,4 +45,6 @@
   <string name="show_chinese_date">锁屏显示农历</string>
   <string name="lock_screen_show_current">充电电流</string>
   <string name="lock_screen_show_current_summary">充电时在锁屏界面显示充电电流</string>
+  <string name="unlock_quick_unlock_control_title">快速解锁</string>
+  <string name="unlock_quick_unlock_control_summary">当输入正确的PIN/密码时自动解锁</string>
 </resources>
