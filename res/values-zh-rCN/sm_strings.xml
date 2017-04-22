@@ -23,13 +23,6 @@
   <string name="status_bar_network_traffic_style_all">显示上传和下载速度</string>
   <string name="wat">天气时钟</string>
   <string name="wats">天气时钟插件快捷入口</string> 
-  <string name="gesture_direct_title">手势和体感</string>  
-  <string name="gesture_title">手势</string>  
-  <string name="direct_control_title">体感</string>
-  <string name="direct_call_for_dialer_title">拨号界面体感拨号</string>
-  <string name="direct_call_for_dialer_summary">手机放在耳边时将自动拨打当前拨号器输入的电话号码</string>
-  <string name="direct_call_for_mms_title">短信界面体感拨号</string>
-  <string name="direct_call_for_mms_summary">手机放在耳边时将自动拨打当前的短信联系者电话号码</string>
   <string name="night_mode">夜间模式</string>
   <string name="night_mode_summary">安装软件前请关闭夜间模式</string>    
   <string name="night_mode_color">夜间模式颜色</string>

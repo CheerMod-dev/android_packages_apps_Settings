@@ -43,7 +43,6 @@ import com.android.settings.lockscreen.LockScreenSettings;
 import com.android.settings.net.DataUsageMeteredSettings;
 import com.android.settings.notification.NotificationManagerSettings;
 import com.android.settings.SoundSettings;
-import com.android.settings.sudamod.GestureSettings;
 import com.android.settings.notification.OtherSoundSettings;
 import com.android.settings.notification.ZenModeSettings;
 import com.android.settings.print.PrintSettingsFragment;
@@ -287,13 +286,6 @@ public final class SearchIndexableResources {
                         Ranking.getRankForClassName(StatusBarSettings.class.getName()),
                         R.xml.status_bar_settings,
                         StatusBarSettings.class.getName(),
-                        R.drawable.ic_settings_extdesk_hidenavbar));
-
-        sResMap.put(GestureSettings.class.getName(),
-                new SearchIndexableResource(
-                        Ranking.getRankForClassName(GestureSettings.class.getName()),
-                        R.xml.gesture_settings,
-                        GestureSettings.class.getName(),
                         R.drawable.ic_settings_extdesk_hidenavbar));
 
         sResMap.put(NotificationDrawerSettings.class.getName(),
