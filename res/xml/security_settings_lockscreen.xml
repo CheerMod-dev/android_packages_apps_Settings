@@ -42,11 +42,6 @@
             android:summary="@string/owner_info_settings_summary"/>
 
         <com.android.settings.cyanogenmod.SystemSettingSwitchPreference
-            android:key="double_tap_sleep_anywhere"
-            android:title="@string/double_tap_sleep_anywhere_title"
-            android:summary="@string/double_tap_sleep_anywhere_summary"/>
-
-        <com.android.settings.cyanogenmod.SystemSettingSwitchPreference
             android:key="chinese_date_view"
             android:title="@string/show_chinese_date"
             android:defaultValue="true" />
